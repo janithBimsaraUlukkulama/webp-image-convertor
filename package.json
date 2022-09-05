@@ -1,0 +1,14 @@
+{
+  "name": "webp-image-convertor",
+  "version": "1.0.0",
+  "description": "convert images to webp format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jbimsaraulukkulama@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
